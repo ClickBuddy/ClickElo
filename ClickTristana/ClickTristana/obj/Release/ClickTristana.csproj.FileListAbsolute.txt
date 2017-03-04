@@ -1,0 +1,13 @@
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickTristana\ClickTristana\bin\Release\ClickTristana.exe.config
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickTristana\ClickTristana\bin\Release\ClickTristana.exe
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickTristana\ClickTristana\bin\Release\ClickTristana.pdb
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickTristana\ClickTristana\bin\Release\EloBuddy.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickTristana\ClickTristana\bin\Release\EloBuddy.SDK.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickTristana\ClickTristana\bin\Release\Newtonsoft.Json.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickTristana\ClickTristana\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickTristana\ClickTristana\bin\Release\SharpDX.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickTristana\ClickTristana\bin\Release\SharpDX.XInput.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickTristana\ClickTristana\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickTristana\ClickTristana\obj\Release\ClickTristana.csprojResolveAssemblyReference.cache
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickTristana\ClickTristana\obj\Release\ClickTristana.exe
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickTristana\ClickTristana\obj\Release\ClickTristana.pdb

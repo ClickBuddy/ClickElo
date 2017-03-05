@@ -1,0 +1,13 @@
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickLux\ClickLux\obj\Release\ClickLux.csprojResolveAssemblyReference.cache
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickLux\ClickLux\bin\Release\ClickLux.exe.config
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickLux\ClickLux\bin\Release\ClickLux.exe
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickLux\ClickLux\bin\Release\ClickLux.pdb
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickLux\ClickLux\bin\Release\EloBuddy.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickLux\ClickLux\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickLux\ClickLux\bin\Release\EloBuddy.SDK.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickLux\ClickLux\bin\Release\Newtonsoft.Json.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickLux\ClickLux\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickLux\ClickLux\bin\Release\SharpDX.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickLux\ClickLux\bin\Release\SharpDX.XInput.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickLux\ClickLux\obj\Release\ClickLux.exe
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickLux\ClickLux\obj\Release\ClickLux.pdb

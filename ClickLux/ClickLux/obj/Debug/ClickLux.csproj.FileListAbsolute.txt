@@ -1,0 +1,13 @@
+c:\users\edcarlos\documents\visual studio 2015\Projects\ClickLux\ClickLux\bin\Debug\ClickLux.exe.config
+c:\users\edcarlos\documents\visual studio 2015\Projects\ClickLux\ClickLux\obj\Debug\ClickLux.csprojResolveAssemblyReference.cache
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickLux\ClickLux\bin\Debug\ClickLux.exe
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickLux\ClickLux\bin\Debug\ClickLux.pdb
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickLux\ClickLux\bin\Debug\EloBuddy.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickLux\ClickLux\bin\Debug\EloBuddy.Sandbox.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickLux\ClickLux\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickLux\ClickLux\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickLux\ClickLux\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickLux\ClickLux\bin\Debug\SharpDX.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickLux\ClickLux\bin\Debug\SharpDX.XInput.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickLux\ClickLux\obj\Debug\ClickLux.exe
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ClickLux\ClickLux\obj\Debug\ClickLux.pdb

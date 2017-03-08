@@ -1,6 +1,5 @@
 ﻿using EloBuddy;
 using EloBuddy.SDK;
-// Using the config like this makes your life easier, trust me
 using Settings = ClickLux.Config.Modes.Harass;
 
 namespace ClickLux.Modes

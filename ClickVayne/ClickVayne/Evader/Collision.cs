@@ -35,7 +35,7 @@ namespace Evader
     {
         private static int _wallCastTick;
         private static Vector2 _yasuoWallVector2;
-
+//Update
         public static void Init()
         {
             Obj_AI_Base.OnProcessSpellCast += Obj_AI_Base_OnProcessSpellCast;

@@ -21,7 +21,7 @@ namespace ClickVayne
 
         static MenuManager()
         {
-            Menu = MainMenu.AddMenu("Click Vayne", "Vayne");
+            Menu = MainMenu.AddMenu("Click Vayne", "Vayne 2.0");
             Menu.AddGroupLabel("Vayne");
             Menu.AddLabel("addon Update.");
             Menu.AddLabel("");

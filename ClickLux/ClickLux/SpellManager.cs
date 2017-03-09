@@ -13,7 +13,7 @@ namespace ClickLux
 
         static SpellManager()
         {
-            // Initialize spells
+           
             Q = new EloBuddy.SDK.Spell.Skillshot(SpellSlot.Q, 1175, SkillShotType.Linear, 250, 1200, 70) { AllowedCollisionCount = 1};
             W = new EloBuddy.SDK.Spell.Skillshot(SpellSlot.W, 1075, SkillShotType.Linear, 0, 1400, 85) { AllowedCollisionCount = int.MaxValue };
             E = new EloBuddy.SDK.Spell.Skillshot(SpellSlot.E, 1100, SkillShotType.Circular, 250, 1300, 275) { AllowedCollisionCount = int.MaxValue };
